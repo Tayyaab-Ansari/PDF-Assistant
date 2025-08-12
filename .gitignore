@@ -1,0 +1,6 @@
+# Ignore environment variables file
+.env
+
+# Optional: Ignore other sensitive or temporary files
+node_modules/  # If it's a Node.js project
+*.log          # Log files
